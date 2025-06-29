@@ -1,8 +1,8 @@
 # APB Verification Project
 
-This repository contains my graduate-level project on the verification of an **APB (Advanced Peripheral Bus) Master and Slave interface** using **SystemVerilog** and **QuestaSim**.
+This repository contains my graduate-level project on the verification of an **APB (Advanced Peripheral Bus) Master and Slave interface** using **UVM** and **QuestaSim**.
 
-The goal was to verify proper communication between the APB Master and Slave modules under various test scenarios, including read/write operations and error conditions.
+The goal was to verify proper communication between the APB Master and Slave modules under various test scenarios, including read/write operations in the soc.
 
 ---
 
